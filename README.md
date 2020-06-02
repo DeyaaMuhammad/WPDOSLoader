@@ -1,6 +1,6 @@
 =========================================
 
-* WordPress DOS trough 'load-scripts.php'
+# WordPress DOS trough 'load-scripts.php'
 CVE-ID: CVE-2018-6389
 
 [-] Author: Deyaa Muhammad
