@@ -2,10 +2,10 @@
 
 # WPDOSLoader
 
-WordPress DOS trough 'load-scripts.php'
+WordPress DOS trough 'load-scripts.php'\
 CVE-ID: CVE-2018-6389
 
-[-] Author: Deyaa Muhammad
+[-] Author: Deyaa Muhammad\
 [-] Twitter: @deyaamuhammad
 
 =========================================
@@ -38,11 +38,12 @@ FIX:
 ======================
 The web application firewall will mitigate attacks by adding the following to .htaccess -file:
 
+```
 <Files load-scripts.php>
 Order allow, deny
 Deny from all
 </Files>
-
+```
 
 CVE-ID:
 ======================
