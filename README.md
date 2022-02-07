@@ -1,5 +1,3 @@
-=========================================
-
 # WPDOSLoader
 
 WordPress DOS trough 'load-scripts.php'\
